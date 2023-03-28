@@ -3,4 +3,4 @@
 > Desenvolver um projeto, cuja função é entregar um site sobre informática básica.
 
 ## Tecnologias Utilizadas
-![HTML](https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html)
+![HTML](https://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg)
